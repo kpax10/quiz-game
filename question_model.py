@@ -3,5 +3,3 @@ class Question:
         self.text = text
         self.answer = answer
 
-
-new_q = Question('2+3=5', 'True')
